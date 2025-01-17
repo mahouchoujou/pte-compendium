@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: zip -r ./my-module.zip module.json my-module.js lang/ templates/
+    - run: zip -r ./module.zip module.json pte-compendium.js 
     - name: Create Release
       id: create_latest_release
       uses: ncipollo/release-action@v1
