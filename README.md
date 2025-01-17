@@ -17,7 +17,7 @@ Currently, the compendium has almost every item available in Pokémon Tabletop E
 - All Poké Roles.
 - All talents.
 
-# Needed Modules
+# Required Modules
 - [JB2A's Animations](https://foundryvtt.com/packages/JB2A_DnD5e) (Either Free / Patreon).
 - [Sequencer](https://foundryvtt.com/packages/sequencer)
 - [Pokémon Tabletop Reunited system](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System) for V12 Foundry VTT (WILL NOT WORK ON ANY OTHER VERSION BELOW 12)
