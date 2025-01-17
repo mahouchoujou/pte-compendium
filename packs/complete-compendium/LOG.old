@@ -1,0 +1,8 @@
+2025/01/16-18:59:08.877 be74 Recovering log #36
+2025/01/16-18:59:08.972 be74 Delete type=0 #36
+2025/01/16-18:59:08.972 be74 Delete type=3 #34
+2025/01/16-18:59:15.135 5cbc Level-0 table #41: started
+2025/01/16-18:59:15.135 5cbc Level-0 table #41: 0 bytes OK
+2025/01/16-18:59:15.184 5cbc Delete type=0 #39
+2025/01/16-18:59:15.302 5cbc Manual compaction at level-0 from '!folders!1VdSbl2uww9tSnjj' @ 72057594037927935 : 1 .. '!items!zvq1GCXVOsmTi6bg' @ 0 : 0; will stop at (end)
+2025/01/16-18:59:15.302 5cbc Manual compaction at level-1 from '!folders!1VdSbl2uww9tSnjj' @ 72057594037927935 : 1 .. '!items!zvq1GCXVOsmTi6bg' @ 0 : 0; will stop at (end)

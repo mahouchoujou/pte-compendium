@@ -1,7 +1,7 @@
 {
   "id": "pte-compendium",
   "title": "PTE Compendium",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -12,12 +12,56 @@
       "label": "Complete Compendium",
       "path": "packs/complete-compendium",
       "type": "Item",
+      "system": "ptu",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "autoanimations",
+        "type": "module",
+        "compatibility": {}
       },
-      "system": "ptu",
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pokemon-assets",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "quick-insert",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "ptu",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A complete compendium for Pokemon Tabletop Evolution based in the PTU Foundry VTT system.",
+  "authors": [
+    {
+      "name": "Mahou",
+      "discord": "mahouchoujou",
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/mahouchoujou/pte-compendium"
 }
