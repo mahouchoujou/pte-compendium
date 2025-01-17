@@ -40,4 +40,4 @@ To properly set up your Foundry for Pokémon Tabletop Evolution, the recommended
 Lastly, for Quick Insert, using the Compendium Browser located at the bottom of the sidebar, change the settings to reflect the ones I've shown below in order to get rid of the PTR content and replace it with PTE content.
 ![](https://github.com/mahouchoujou/pte-compendium/blob/fb9e53734be09ca545d944ffbdfdbe277b59a3ef/instructions/Screenshot_5.png)
 
-Please reach out to me in the Pokémon Tabletop Reunited or [Pokémon Tabletop Evolution discord](https://discord.com/invite/DsauQuwQYV) @mahouchoujou for any bug fixes, breaking issues, etc. Enjoy!
+Please reach out to me in the [Pokémon Tabletop Reunited](https://discord.gg/ptrfvtt) or [Pokémon Tabletop Evolution discord](https://discord.com/invite/DsauQuwQYV) @mahouchoujou for any bug fixes, breaking issues, etc. Enjoy!
