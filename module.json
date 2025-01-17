@@ -1,0 +1,23 @@
+{
+  "id": "pte-compendium",
+  "title": "PTE Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "complete-compendium",
+      "label": "Complete Compendium",
+      "path": "packs/complete-compendium",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "ptu",
+      "flags": {}
+    }
+  ]
+}
