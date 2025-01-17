@@ -3,7 +3,8 @@
 This module is a bit buggy as it's my first time exporting it outside of my own system and those bugs will be fixed but there is a bit to talk about.
 Currently, the compendium has almost every item available in Pokémon Tabletop Evolution from the Rule Book released on **January 16th, 2025** which means the version is currently supported up to **Version 1.33**.
 
-# Manifest URL
+# Download
+➡️ [RELEASES!](https://github.com/mahouchoujou/pte-compendium/releases/tag/v1.0-alpha)
 
 
 ## Features
