@@ -22,6 +22,7 @@ Currently, the compendium has almost every item available in Pokémon Tabletop E
 - [Sequencer](https://foundryvtt.com/packages/sequencer)
 - [Pokémon Tabletop Reunited system](https://github.com/dylanpiera/Foundry-Pokemon-Tabletop-United-System) for V12 Foundry VTT (WILL NOT WORK ON ANY OTHER VERSION BELOW 12)
 - [Quick Insert](https://gitlab.com/fvtt-modules-lab/quick-insert)
+- [Pokémon Assets for PTR](https://github.com/righthandofvecna/pokemon-assets/releases/download/v0.2.10/module.json) <-- right click and install this link into Foundry
 
 # DISCLAIMER AND INSTRUCTIONS!
 
